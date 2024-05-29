@@ -4,7 +4,7 @@ Welcome to PicassoGrabber! This badass tool is here to grab all sorts of juicy i
 
 ***Features***
 
-- **Password Extraction: **Snatches saved passwords from various browsers and apps.
+- **Password Extraction:** **Snatches saved passwords from various browsers and apps.
 - **Bank Card Details:** Rips out stored bank card info from browsers.
 - **Cookies:** Swipes browser cookies to hijack sessions.
 - **System Information:** Grabs a bunch of detailed system info from the target.
