@@ -11,7 +11,7 @@ Welcome to PicassoGrabber! This badass tool is here to grab all sorts of juicy i
 - **Webhook Integration:** Ships off all the collected data to a pre-defined webhook.
 
 
-![image](https://raw.githubusercontent.com/MasonGroup/PicassoGrabber/main/image.png?token=GHSAT0AAAAAACRWFDVKOR3OOJGIQXVCT6DIZSXL2WQ)
+![image](https://github.com/MasonGroup/PicassoGrabber/raw/main/image.png)
 ---
 ***Legal Disclaimer***
 
