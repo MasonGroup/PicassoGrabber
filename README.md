@@ -1,30 +1,27 @@
 # PicassoGrabber
-Welcome to PicassoGrabber! This tool is a powerful executable designed to extract sensitive information such as passwords, bank card details, browser cookies, and system information from a target machine. The gathered data is then sent to a specified webhook. Please ensure to use this tool responsibly.
 
-Features
----
-> **Password Extraction:** Retrieves saved passwords from various browsers and applications.
-> **Bank Card Details:** Extracts stored bank card information from browsers.
-> **Cookies:** Gathers browser cookies to hijack sessions.
-> **System Information:** Collects comprehensive information about the target system.
-> **Webhook Integration:** Sends the collected data to a predefined webhook.
+Welcome to PicassoGrabber! This badass tool is here to grab all sorts of juicy info from your target machine: passwords, bank card details, browser cookies, and even system info. Once it's got what it needs, it sends everything straight to a webhook of your choosing. Just remember, with great power comes great responsibility.
 
-Prerequisites
----
-.NET Framework 4.7.2 or later
+***Features***
 
-Legal Disclaimer
----
-This tool is intended for educational and authorized testing purposes only. Unauthorized use of this tool may violate local, state, federal, or international laws. The developers assume no liability and are not responsible for any misuse or damage caused by this tool.
+- **Password Extraction: **Snatches saved passwords from various browsers and apps.
+- **Bank Card Details:** Rips out stored bank card info from browsers.
+- **Cookies:** Swipes browser cookies to hijack sessions.
+- **System Information:** Grabs a bunch of detailed system info from the target.
+- **Webhook Integration:** Ships off all the collected data to a pre-defined webhook.
 
-Contributing
----
-We welcome contributions to improve PicassoGrabber. Please fork the repository and submit a pull request with your enhancements.
+***Legal Disclaimer***
 
-License
----
-This project is licensed under the MIT License. See the LICENSE file for details.
+This tool is meant for educational and authorized testing purposes only. If you go rogue and start using it for shady stuff, you might end up in some serious legal trouble. We developers take no responsibility for any misuse or damage caused by this tool. You've been warned.
 
-Feel free to reach out if you have any questions or need further assistance.
+***Contributing***
+
+Got some sick ideas to make PicassoGrabber even better? Fork the repository, make your magic happen, and then shoot us a pull request. Let's make this tool unstoppable!
+
+***License***
+
+MIT License, baby! Check out the LICENSE file if you're into that kind of thing.
+
+Got questions or need help? Hit us up!
 
 Happy Grabbing!
