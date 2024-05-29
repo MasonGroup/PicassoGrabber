@@ -18,5 +18,5 @@ This tool is meant for educational and authorized testing purposes only. If you 
 Got some sick ideas to make PicassoGrabber even better? Fork the repository, make your magic happen, and then shoot us a pull request. Let's make this tool unstoppable!
 
 ---
-
+![image (1)](https://github.com/MasonGroup/PicassoGrabber/raw/main/image.png)
 *Happy Grabbing!*
