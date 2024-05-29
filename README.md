@@ -9,6 +9,8 @@ Welcome to PicassoGrabber! This badass tool is here to grab all sorts of juicy i
 - **Cookies:** Swipes browser cookies to hijack sessions.
 - **System Information:** Grabs a bunch of detailed system info from the target.
 - **Webhook Integration:** Ships off all the collected data to a pre-defined webhook.
+
+
 ![image](https://raw.githubusercontent.com/MasonGroup/PicassoGrabber/main/image.png?token=GHSAT0AAAAAACRWFDVKOR3OOJGIQXVCT6DIZSXL2WQ)
 ---
 ***Legal Disclaimer***
