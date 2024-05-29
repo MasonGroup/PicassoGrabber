@@ -10,6 +10,8 @@ Welcome to PicassoGrabber! This badass tool is here to grab all sorts of juicy i
 - **System Information:** Grabs a bunch of detailed system info from the target.
 - **Webhook Integration:** Ships off all the collected data to a pre-defined webhook.
 
+https://raw.githubusercontent.com/MasonGroup/PicassoGrabber/main/image.png?token=GHSAT0AAAAAACRWFDVKOR3OOJGIQXVCT6DIZSXL2WQ
+
 ***Legal Disclaimer***
 
 This tool is meant for educational and authorized testing purposes only. If you go rogue and start using it for shady stuff, you might end up in some serious legal trouble. We developers take no responsibility for any misuse or damage caused by this tool. You've been warned.
