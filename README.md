@@ -9,7 +9,6 @@ Welcome to PicassoGrabber! This badass tool is here to grab all sorts of juicy i
 - **Cookies:** Swipes browser cookies to hijack sessions.
 - **System Information:** Grabs a bunch of detailed system info from the target.
 - **Webhook Integration:** Ships off all the collected data to a pre-defined webhook.
----
 ***Legal Disclaimer***
 
 This tool is meant for educational and authorized testing purposes only. If you go rogue and start using it for shady stuff, you might end up in some serious legal trouble. We developers take no responsibility for any misuse or damage caused by this tool. You've been warned.
@@ -18,7 +17,6 @@ This tool is meant for educational and authorized testing purposes only. If you 
 
 Got some sick ideas to make PicassoGrabber even better? Fork the repository, make your magic happen, and then shoot us a pull request. Let's make this tool unstoppable!
 
----
 ***License***
 
 MIT License, baby! Check out the LICENSE file if you're into that kind of thing.
