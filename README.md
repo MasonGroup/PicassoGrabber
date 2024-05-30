@@ -22,4 +22,5 @@ Got some sick ideas to make PicassoGrabber even better? Fork the repository, mak
 ![image (1)](https://github.com/MasonGroup/PicassoGrabber/raw/main/image.png)
 ---
 Umbral has been improved and developed by abojndl
+
 *Happy Grabbing!*
